@@ -20,6 +20,5 @@ I'm Owen (he/him)!
 - My background in art 🎨 but found myself more happy with a software career 💻
 - I'm most interested in Rust 🦀, but have worked in many different languages over the years
 - I'm a huge fan of horror movies 👹 and sour candy 🍬
-- I love my two cats 🐱🐱
 
-Socially, I go by [@theomn](https://twitter.com/theomn) on Twitter, but I don't really post there as much anymore. You're more likely to find me on <a rel="me" href="https://mastodon.social/@onelson">Mastodon</a> or [Cohost](https://cohost.org/onelson) if you want to chitchat.
+Socially, I go by [@theomn](https://twitter.com/theomn) on Twitter, but I don't really post there as much anymore. You're more likely to find me on <a rel="me" href="https://mastodon.social/@onelson">Mastodon</a> if you want to chitchat.
